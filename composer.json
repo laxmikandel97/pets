@@ -1,0 +1,20 @@
+{
+  "name": "laxmikandel/IT328/pets",
+  "authors": [
+    {
+      "name": "Laxmi Kandel",
+      "email": "lkandel@mail.greeriver.edu"
+    },
+    {
+      "name": "Ekampreet",
+      "email": "ekaur@mail.greenriver.edu"
+    },
+    {
+      "name": "Maureen",
+      "email": "mkariuki2@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}

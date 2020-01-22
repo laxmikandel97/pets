@@ -1,4 +1,9 @@
 <?php
+/**
+ * Pair programming
+ * Team: Ekam,Laxmi, Maureen
+ * Description: Default route
+ */
 //error reporting turned on
 ini_set("display_errors",1);
 error_reporting(E_ALL);
